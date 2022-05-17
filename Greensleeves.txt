@@ -1,0 +1,1 @@
+Grnslvs:d=4,o=4,b=125:2p,a,2c5,d5,e5.,8f5,e5,2d5,b,g.,8a,b,2c5,a,a.,8g#,a,2b,g#,2e,a,2c5,d5,e5.,8f5,e5,2d5,b,g.,8g,8a,8b,c5.,8b,a,g#.,8f#,g#,2a.,2a.,2g5.,g5.,8f#5,e5,2d5,b,g.,8a,b,2c5,a,a.,8g#,a,2b,g#,2e.,2g5.,g5.,8f#5,e5,2d5,b,g.,8g,8a,8b,c5.,8b,a,g#.,8f#,g#,2a.,2a.
